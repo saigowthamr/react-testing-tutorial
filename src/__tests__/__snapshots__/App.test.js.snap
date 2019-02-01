@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+
+exports[`My first snapshot test testing app button 1`] = `
+<div
+  className="App"
+>
+  <button
+    onClick={[Function]}
+  >
+    Show
+  </button>
+</div>
+`;
+
+exports[`Changing our button name to Hide toggle the button 1`] = `
+<div
+  className="App"
+>
+  <button
+    onClick={[Function]}
+  >
+    Hide
+  </button>
+</div>
+`;
